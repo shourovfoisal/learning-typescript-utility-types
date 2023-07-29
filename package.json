@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "tsc-init": "tsc --init",
+    "tsc-once": "tsc",
+    "tsc-watch": "tsc -w",
+    "nodemon": "nodemon generated/myScript.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "typescript": "^5.1.6"
+  }
+}
